@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="ASUS"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2021-10-14 02:22:16 PM"/>
+        <attribute name="created" value="QVNVUztSVVMtUEM7MjAyMS0xMC0wNzswNToxOTo0NiBQTTsyMDQw"/>
+        <attribute name="edited" value="QVNVUztSVVMtUEM7MjAyMS0xMC0xNDswMjoyMjoxNiBQTTs0NjsyMTkx"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <comment text="&#3605;&#3633;&#3623;&#3649;&#3611;&#3619;&#3619;&#3633;&#3610;&#3588;&#3656;&#3634;&#3592;&#3634;&#3585;&#3612;&#3641;&#3657;&#3651;&#3594;&#3657;&#13;&#10;"/>
+            <declare name="userInput" type="Integer" array="False" size=""/>
+            <comment text="&#3586;&#3609;&#3634;&#3604;&#3605;&#3633;&#3623;&#3629;&#3633;&#3585;&#3625;&#3619;&#3648;&#3619;&#3636;&#3656;&#3617;&#3605;&#3657;&#3609;"/>
+            <assign variable="userInput" expression="5"/>
+            <comment text="&#3588;&#3629;&#3621;&#3633;&#3617;"/>
+            <declare name="col" type="Integer" array="False" size=""/>
+            <assign variable="col" expression="0"/>
+            <comment text="&#3609;&#3633;&#3610;&#3610;&#3619;&#3629;&#3610;&#3621;&#3641;&#3611;"/>
+            <declare name="i" type="Integer" array="False" size=""/>
+            <assign variable="i" expression="0"/>
+            <comment text="&#3649;&#3626;&#3604;&#3591;&#3588;&#3656;&#3634;&#3648;&#3619;&#3636;&#3656;&#3617;&#3605;&#3657;&#3609;&#3607;&#3637;&#3656;&#3586;&#3609;&#3634;&#3604; 5"/>
+            <output expression="&quot;This is default size of ITBI (5)&quot;" newline="True"/>
+            <comment text="&#3619;&#3641;&#3611;&#3623;&#3609;&#3652;&#3611;&#3648;&#3619;&#3639;&#3656;&#3629;&#3618;&#3592;&#3609;&#3585;&#3623;&#3656;&#3634;&#3612;&#3641;&#3657;&#3651;&#3594;&#3657;&#3592;&#3632;&#3585;&#3619;&#3629;&#3585;&#3624;&#3641;&#3609;&#3618;&#3660;&#3648;&#3614;&#3639;&#3656;&#3629;&#3629;&#3629;&#3585;&#3592;&#3634;&#3585;&#3650;&#3611;&#3619;&#3649;&#3585;&#3619;&#3617;"/>
+            <while expression="!(userInput==0)">
+                <if expression="(userInput%5)==0||userInput&gt;=5">
+                    <then>
+                        <for variable="i" start="i" end="userInput/5" direction="inc" step="1">
+                            <for variable="col" start="0" end="4" direction="inc" step="1">
+                                <call expression="printcol(userInput,col)"/>
+                            </for>
+                        </for>
+                        <assign variable="i" expression="0"/>
+                        <for variable="i" start="i" end="userInput/5" direction="inc" step="1">
+                            <for variable="col" start="5" end="9" direction="inc" step="1">
+                                <call expression="printcol(userInput,col)"/>
+                            </for>
+                        </for>
+                        <assign variable="i" expression="0"/>
+                        <for variable="i" start="i" end="userInput/5" direction="inc" step="1">
+                            <for variable="col" start="10" end="14" direction="inc" step="1">
+                                <call expression="printcol(userInput,col)"/>
+                            </for>
+                        </for>
+                        <assign variable="i" expression="0"/>
+                        <for variable="i" start="i" end="userInput/5" direction="inc" step="1">
+                            <for variable="col" start="15" end="19" direction="inc" step="1">
+                                <call expression="printcol(userInput,col)"/>
+                            </for>
+                        </for>
+                        <assign variable="i" expression="0"/>
+                        <for variable="i" start="i" end="userInput/5" direction="inc" step="1">
+                            <for variable="col" start="20" end="24" direction="inc" step="1">
+                                <call expression="printcol(userInput,col)"/>
+                            </for>
+                        </for>
+                        <assign variable="i" expression="0"/>
+                    </then>
+                    <else>
+                        <for variable="col" start="0" end="24" direction="inc" step="1">
+                            <call expression="printcol(userInput,col)"/>
+                        </for>
+                    </else>
+                </if>
+                <output expression="&quot;________________________________________________________&quot;" newline="True"/>
+                <output expression="&quot;Please Enter front size(1-50) OR enter 0 to exit program.&quot;" newline="True"/>
+                <input variable="userInput"/>
+            </while>
+        </body>
+    </function>
+    <function name="printcol" type="None" variable="">
+        <parameters>
+            <parameter name="userInput" type="Integer" array="False"/>
+            <parameter name="col" type="Integer" array="False"/>
+        </parameters>
+        <body>
+            <declare name="space" type="Integer" array="True" size="25"/>
+            <declare name="charac" type="Integer" array="True" size="25"/>
+            <assign variable="space[0]" expression="0"/>
+            <assign variable="space[1]" expression="1"/>
+            <assign variable="space[2]" expression="1"/>
+            <assign variable="space[3]" expression="1"/>
+            <assign variable="space[4]" expression="0"/>
+            <assign variable="space[5]" expression="1"/>
+            <assign variable="space[6]" expression="3"/>
+            <assign variable="space[7]" expression="2"/>
+            <assign variable="space[8]" expression="1"/>
+            <assign variable="space[9]" expression="2"/>
+            <assign variable="space[10]" expression="1"/>
+            <assign variable="space[11]" expression="3"/>
+            <assign variable="space[12]" expression="2"/>
+            <assign variable="space[13]" expression="3"/>
+            <assign variable="space[14]" expression="0"/>
+            <assign variable="space[15]" expression="1"/>
+            <assign variable="space[16]" expression="3"/>
+            <assign variable="space[17]" expression="2"/>
+            <assign variable="space[18]" expression="1"/>
+            <assign variable="space[19]" expression="2"/>
+            <assign variable="space[20]" expression="0"/>
+            <assign variable="space[21]" expression="2"/>
+            <assign variable="space[22]" expression="2"/>
+            <assign variable="space[23]" expression="1"/>
+            <assign variable="space[24]" expression="0"/>
+            <assign variable="charac[0]" expression="3"/>
+            <assign variable="charac[1]" expression="3"/>
+            <assign variable="charac[2]" expression="3"/>
+            <assign variable="charac[3]" expression="3"/>
+            <assign variable="charac[4]" expression="0"/>
+            <assign variable="charac[5]" expression="1"/>
+            <assign variable="charac[6]" expression="1"/>
+            <assign variable="charac[7]" expression="1"/>
+            <assign variable="charac[8]" expression="1"/>
+            <assign variable="charac[9]" expression="1"/>
+            <assign variable="charac[10]" expression="1"/>
+            <assign variable="charac[11]" expression="1"/>
+            <assign variable="charac[12]" expression="2"/>
+            <assign variable="charac[13]" expression="1"/>
+            <assign variable="charac[14]" expression="0"/>
+            <assign variable="charac[15]" expression="1"/>
+            <assign variable="charac[16]" expression="1"/>
+            <assign variable="charac[17]" expression="1"/>
+            <assign variable="charac[18]" expression="1"/>
+            <assign variable="charac[19]" expression="1"/>
+            <assign variable="charac[20]" expression="3"/>
+            <assign variable="charac[21]" expression="1"/>
+            <assign variable="charac[22]" expression="3"/>
+            <assign variable="charac[23]" expression="3"/>
+            <assign variable="charac[24]" expression="0"/>
+            <comment text=""/>
+            <declare name="sp" type="Integer" array="False" size=""/>
+            <assign variable="sp" expression="0"/>
+            <declare name="ch" type="Integer" array="False" size=""/>
+            <assign variable="ch" expression="0"/>
+            <while expression="sp&lt;(space[col]*userInput)">
+                <output expression="&quot;C&quot;" newline="False"/>
+                <assign variable="sp" expression="sp+1"/>
+            </while>
+            <while expression="ch&lt;(charac[col]*userInput)">
+                <output expression="&quot;W&quot;" newline="False"/>
+                <assign variable="ch" expression="ch+1"/>
+            </while>
+            <assign variable="sp" expression="0"/>
+            <assign variable="ch" expression="0"/>
+            <if expression="col==4||col=9||col=14||col=19||col=24">
+                <then>
+                    <output expression="&quot;&quot;" newline="True"/>
+                </then>
+                <else/>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

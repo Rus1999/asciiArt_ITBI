@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created by Flowgorithm 2.30.3 (http://flowgorithm.org) -->
+
+<svg xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" version="1.1" width="1425" height="12900">
+	<rect x="0" y="0" width="1425" height="12900" fill="#403C38"/>
+	<g>
+		<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="625,250 625,311"/>
+		<polygon fill="#EAEEF0" stroke="none" points="625,325 638,300 611,300"/>
+		<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="625,12625 625,12686"/>
+		<polygon fill="#EAEEF0" stroke="none" points="625,12700 638,12675 611,12675"/>
+		<g>
+			<path fill="#E0E0E0" stroke="#101010" stroke-width="3" stroke-dasharray="none" d="M 325,100 A 75,75 0 0,0 325,250 L 925,250 A 75,75 0 0,0 925,100 Z"/>
+			<text x="625" y="115" fill="#505050" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+				<tspan x="625" dy="50" unicode-bidi="embed">printcol</tspan>
+				<tspan x="625" dy="50" unicode-bidi="embed">(Integer userInput, Integer col)</tspan>
+			</text>
+		</g>
+		<g>
+			<path fill="#E0E0E0" stroke="#101010" stroke-width="3" stroke-dasharray="none" d="M 525,12700 A 50,50 0 0,0 525,12800 L 725,12800 A 50,50 0 0,0 725,12700 Z"/>
+			<text x="625" y="12715" fill="#505050" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+				<tspan x="625" dy="50" unicode-bidi="embed">End</tspan>
+			</text>
+		</g>
+		<g>
+			<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="625,450 625,511"/>
+			<polygon fill="#EAEEF0" stroke="none" points="625,525 638,500 611,500"/>
+			<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="625,650 625,711"/>
+			<polygon fill="#EAEEF0" stroke="none" points="625,725 638,700 611,700"/>
+			<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="625,825 625,886"/>
+			<polygon fill="#EAEEF0" stroke="none" points="625,900 638,875 611,875"/>
+			<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="625,1000 625,1061"/>
+			<polygon fill="#EAEEF0" stroke="none" points="625,1075 638,1050 611,1050"/>
+			<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="625,1175 625,1236"/>
+			<polygon fill="#EAEEF0" stroke="none" points="625,1250 638,1225 611,1225"/>
+			<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="625,1350 625,1411"/>
+			<polygon fill="#EAEEF0" stroke="none" points="625,1425 638,1400 611,1400"/>
+			<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="625,1525 625,1586"/>
+			<polygon fill="#EAEEF0" stroke="none" points="625,1600 638,1575 611,1575"/>
+			<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="625,1700 625,1761"/>
+			<polygon fill="#EAEEF0" stroke="none" points="625,1775 638,1750 611,1750"/>
+			<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="625,1875 625,1936"/>
+			<polygon fill="#EAEEF0" stroke="none" points="625,1950 638,1925 611,1925"/>
+			<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="625,2050 625,2111"/>
+			<polygon fill="#EAEEF0" stroke="none" points="625,2125 638,2100 611,2100"/>
+			<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="625,2225 625,2286"/>
+			<polygon fill="#EAEEF0" stroke="none" points="625,2300 638,2275 611,2275"/>
+			<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="625,2400 625,2461"/>
+			<polygon fill="#EAEEF0" stroke="none" points="625,2475 638,2450 611,2450"/>
+			<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="625,2575 625,2636"/>
+			<polygon fill="#EAEEF0" stroke="none" points="625,2650 638,2625 611,2625"/>
+			<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="625,2750 625,2811"/>
+			<polygon fill="#EAEEF0" stroke="none" points="625,2825 638,2800 611,2800"/>
+			<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="625,2925 625,2986"/>
+			<polygon fill="#EAEEF0" stroke="none" points="625,3000 638,2975 611,2975"/>
+			<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="625,3100 625,3161"/>
+			<polygon fill="#EAEEF0" stroke="none" points="625,3175 638,3150 611,3150"/>
+			<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="625,3275 625,3336"/>
+			<polygon fill="#EAEEF0" stroke="none" points="625,3350 638,3325 611,3325"/>
+			<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="625,3450 625,3511"/>
+			<polygon fill="#EAEEF0" stroke="none" points="625,3525 638,3500 611,3500"/>
+			<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="625,3625 625,3686"/>
+			<polygon fill="#EAEEF0" stroke="none" points="625,3700 638,3675 611,3675"/>
+			<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="625,3800 625,3861"/>
+			<polygon fill="#EAEEF0" stroke="none" points="625,3875 638,3850 611,3850"/>
+			<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="625,3975 625,4036"/>
+			<polygon fill="#EAEEF0" stroke="none" points="625,4050 638,4025 611,4025"/>
+			<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="625,4150 625,4211"/>
+			<polygon fill="#EAEEF0" stroke="none" points="625,4225 638,4200 611,4200"/>
+			<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="625,4325 625,4386"/>
+			<polygon fill="#EAEEF0" stroke="none" points="625,4400 638,4375 611,4375"/>
+			<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="625,4500 625,4561"/>
+			<polygon fill="#EAEEF0" stroke="none" points="625,4575 638,4550 611,4550"/>
+			<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="625,4675 625,4736"/>
+			<polygon fill="#EAEEF0" stroke="none" points="625,4750 638,4725 611,4725"/>
+			<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="625,4850 625,4911"/>
+			<polygon fill="#EAEEF0" stroke="none" points="625,4925 638,4900 611,4900"/>
+			<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="625,5025 625,5086"/>
+			<polygon fill="#EAEEF0" stroke="none" points="625,5100 638,5075 611,5075"/>
+			<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="625,5200 625,5261"/>
+			<polygon fill="#EAEEF0" stroke="none" points="625,5275 638,5250 611,5250"/>
+			<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="625,5375 625,5436"/>
+			<polygon fill="#EAEEF0" stroke="none" points="625,5450 638,5425 611,5425"/>
+			<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="625,5550 625,5611"/>
+			<polygon fill="#EAEEF0" stroke="none" points="625,5625 638,5600 611,5600"/>
+			<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="625,5725 625,5786"/>
+			<polygon fill="#EAEEF0" stroke="none" points="625,5800 638,5775 611,5775"/>
+			<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="625,5900 625,5961"/>
+			<polygon fill="#EAEEF0" stroke="none" points="625,5975 638,5950 611,5950"/>
+			<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="625,6075 625,6136"/>
+			<polygon fill="#EAEEF0" stroke="none" points="625,6150 638,6125 611,6125"/>
+			<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="625,6250 625,6311"/>
+			<polygon fill="#EAEEF0" stroke="none" points="625,6325 638,6300 611,6300"/>
+			<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="625,6425 625,6486"/>
+			<polygon fill="#EAEEF0" stroke="none" points="625,6500 638,6475 611,6475"/>
+			<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="625,6600 625,6661"/>
+			<polygon fill="#EAEEF0" stroke="none" points="625,6675 638,6650 611,6650"/>
+			<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="625,6775 625,6836"/>
+			<polygon fill="#EAEEF0" stroke="none" points="625,6850 638,6825 611,6825"/>
+			<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="625,6950 625,7011"/>
+			<polygon fill="#EAEEF0" stroke="none" points="625,7025 638,7000 611,7000"/>
+			<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="625,7125 625,7186"/>
+			<polygon fill="#EAEEF0" stroke="none" points="625,7200 638,7175 611,7175"/>
+			<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="625,7300 625,7361"/>
+			<polygon fill="#EAEEF0" stroke="none" points="625,7375 638,7350 611,7350"/>
+			<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="625,7475 625,7536"/>
+			<polygon fill="#EAEEF0" stroke="none" points="625,7550 638,7525 611,7525"/>
+			<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="625,7650 625,7711"/>
+			<polygon fill="#EAEEF0" stroke="none" points="625,7725 638,7700 611,7700"/>
+			<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="625,7825 625,7886"/>
+			<polygon fill="#EAEEF0" stroke="none" points="625,7900 638,7875 611,7875"/>
+			<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="625,8000 625,8061"/>
+			<polygon fill="#EAEEF0" stroke="none" points="625,8075 638,8050 611,8050"/>
+			<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="625,8175 625,8236"/>
+			<polygon fill="#EAEEF0" stroke="none" points="625,8250 638,8225 611,8225"/>
+			<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="625,8350 625,8411"/>
+			<polygon fill="#EAEEF0" stroke="none" points="625,8425 638,8400 611,8400"/>
+			<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="625,8525 625,8586"/>
+			<polygon fill="#EAEEF0" stroke="none" points="625,8600 638,8575 611,8575"/>
+			<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="625,8700 625,8761"/>
+			<polygon fill="#EAEEF0" stroke="none" points="625,8775 638,8750 611,8750"/>
+			<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="625,8875 625,8936"/>
+			<polygon fill="#EAEEF0" stroke="none" points="625,8950 638,8925 611,8925"/>
+			<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="625,9050 625,9111"/>
+			<polygon fill="#EAEEF0" stroke="none" points="625,9125 638,9100 611,9100"/>
+			<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="625,9225 625,9286"/>
+			<polygon fill="#EAEEF0" stroke="none" points="625,9300 638,9275 611,9275"/>
+			<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="625,9400 625,9525"/>
+			<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="625,9525 625,9636"/>
+			<polygon fill="#EAEEF0" stroke="none" points="625,9650 638,9625 611,9625"/>
+			<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="625,9775 625,9836"/>
+			<polygon fill="#EAEEF0" stroke="none" points="625,9850 638,9825 611,9825"/>
+			<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="625,9950 625,10011"/>
+			<polygon fill="#EAEEF0" stroke="none" points="625,10025 638,10000 611,10000"/>
+			<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="625,10150 625,10211"/>
+			<polygon fill="#EAEEF0" stroke="none" points="625,10225 638,10200 611,10200"/>
+			<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="625,10325 625,10411"/>
+			<polygon fill="#EAEEF0" stroke="none" points="625,10425 638,10400 611,10400"/>
+			<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="625,10525 625,11011"/>
+			<polygon fill="#EAEEF0" stroke="none" points="625,11025 638,11000 611,11000"/>
+			<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="625,11125 625,11586"/>
+			<polygon fill="#EAEEF0" stroke="none" points="625,11600 638,11575 611,11575"/>
+			<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="625,11700 625,11761"/>
+			<polygon fill="#EAEEF0" stroke="none" points="625,11775 638,11750 611,11750"/>
+			<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="625,11875 625,11936"/>
+			<polygon fill="#EAEEF0" stroke="none" points="625,11950 638,11925 611,11925"/>
+			<g>
+				<path fill="#2060A0" stroke="#60A0E0" stroke-width="3" stroke-dasharray="none" d="M 350,325 L 350,450 L 900,450 L 900,325 Z"/>
+				<polyline fill="none" stroke="#60A0E0" stroke-width="3" stroke-dasharray="none" points="350,350 900,350"/>
+				<polyline fill="none" stroke="#60A0E0" stroke-width="3" stroke-dasharray="none" points="375,325 375,450"/>
+				<text x="637" y="365" fill="#FFC080" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="637" dy="50" unicode-bidi="embed">Integer Array space[25]</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#2060A0" stroke="#60A0E0" stroke-width="3" stroke-dasharray="none" d="M 350,525 L 350,650 L 900,650 L 900,525 Z"/>
+				<polyline fill="none" stroke="#60A0E0" stroke-width="3" stroke-dasharray="none" points="350,550 900,550"/>
+				<polyline fill="none" stroke="#60A0E0" stroke-width="3" stroke-dasharray="none" points="375,525 375,650"/>
+				<text x="637" y="565" fill="#FFC080" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="637" dy="50" unicode-bidi="embed">Integer Array charac[25]</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#2060A0" stroke="#60A0E0" stroke-width="3" stroke-dasharray="none" d="M 475,725 L 475,825 L 775,825 L 775,725 Z"/>
+				<text x="625" y="740" fill="#FFC080" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="625" dy="50" unicode-bidi="embed">space[0] = 0</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#2060A0" stroke="#60A0E0" stroke-width="3" stroke-dasharray="none" d="M 475,900 L 475,1000 L 775,1000 L 775,900 Z"/>
+				<text x="625" y="915" fill="#FFC080" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="625" dy="50" unicode-bidi="embed">space[1] = 1</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#2060A0" stroke="#60A0E0" stroke-width="3" stroke-dasharray="none" d="M 475,1075 L 475,1175 L 775,1175 L 775,1075 Z"/>
+				<text x="625" y="1090" fill="#FFC080" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="625" dy="50" unicode-bidi="embed">space[2] = 1</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#2060A0" stroke="#60A0E0" stroke-width="3" stroke-dasharray="none" d="M 475,1250 L 475,1350 L 775,1350 L 775,1250 Z"/>
+				<text x="625" y="1265" fill="#FFC080" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="625" dy="50" unicode-bidi="embed">space[3] = 1</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#2060A0" stroke="#60A0E0" stroke-width="3" stroke-dasharray="none" d="M 475,1425 L 475,1525 L 775,1525 L 775,1425 Z"/>
+				<text x="625" y="1440" fill="#FFC080" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="625" dy="50" unicode-bidi="embed">space[4] = 0</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#2060A0" stroke="#60A0E0" stroke-width="3" stroke-dasharray="none" d="M 475,1600 L 475,1700 L 775,1700 L 775,1600 Z"/>
+				<text x="625" y="1615" fill="#FFC080" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="625" dy="50" unicode-bidi="embed">space[5] = 1</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#2060A0" stroke="#60A0E0" stroke-width="3" stroke-dasharray="none" d="M 475,1775 L 475,1875 L 775,1875 L 775,1775 Z"/>
+				<text x="625" y="1790" fill="#FFC080" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="625" dy="50" unicode-bidi="embed">space[6] = 3</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#2060A0" stroke="#60A0E0" stroke-width="3" stroke-dasharray="none" d="M 475,1950 L 475,2050 L 775,2050 L 775,1950 Z"/>
+				<text x="625" y="1965" fill="#FFC080" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="625" dy="50" unicode-bidi="embed">space[7] = 2</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#2060A0" stroke="#60A0E0" stroke-width="3" stroke-dasharray="none" d="M 475,2125 L 475,2225 L 775,2225 L 775,2125 Z"/>
+				<text x="625" y="2140" fill="#FFC080" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="625" dy="50" unicode-bidi="embed">space[8] = 1</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#2060A0" stroke="#60A0E0" stroke-width="3" stroke-dasharray="none" d="M 475,2300 L 475,2400 L 775,2400 L 775,2300 Z"/>
+				<text x="625" y="2315" fill="#FFC080" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="625" dy="50" unicode-bidi="embed">space[9] = 2</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#2060A0" stroke="#60A0E0" stroke-width="3" stroke-dasharray="none" d="M 450,2475 L 450,2575 L 800,2575 L 800,2475 Z"/>
+				<text x="625" y="2490" fill="#FFC080" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="625" dy="50" unicode-bidi="embed">space[10] = 1</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#2060A0" stroke="#60A0E0" stroke-width="3" stroke-dasharray="none" d="M 450,2650 L 450,2750 L 800,2750 L 800,2650 Z"/>
+				<text x="625" y="2665" fill="#FFC080" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="625" dy="50" unicode-bidi="embed">space[11] = 3</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#2060A0" stroke="#60A0E0" stroke-width="3" stroke-dasharray="none" d="M 450,2825 L 450,2925 L 800,2925 L 800,2825 Z"/>
+				<text x="625" y="2840" fill="#FFC080" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="625" dy="50" unicode-bidi="embed">space[12] = 2</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#2060A0" stroke="#60A0E0" stroke-width="3" stroke-dasharray="none" d="M 450,3000 L 450,3100 L 800,3100 L 800,3000 Z"/>
+				<text x="625" y="3015" fill="#FFC080" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="625" dy="50" unicode-bidi="embed">space[13] = 3</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#2060A0" stroke="#60A0E0" stroke-width="3" stroke-dasharray="none" d="M 450,3175 L 450,3275 L 800,3275 L 800,3175 Z"/>
+				<text x="625" y="3190" fill="#FFC080" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="625" dy="50" unicode-bidi="embed">space[14] = 0</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#2060A0" stroke="#60A0E0" stroke-width="3" stroke-dasharray="none" d="M 450,3350 L 450,3450 L 800,3450 L 800,3350 Z"/>
+				<text x="625" y="3365" fill="#FFC080" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="625" dy="50" unicode-bidi="embed">space[15] = 1</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#2060A0" stroke="#60A0E0" stroke-width="3" stroke-dasharray="none" d="M 450,3525 L 450,3625 L 800,3625 L 800,3525 Z"/>
+				<text x="625" y="3540" fill="#FFC080" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="625" dy="50" unicode-bidi="embed">space[16] = 3</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#2060A0" stroke="#60A0E0" stroke-width="3" stroke-dasharray="none" d="M 450,3700 L 450,3800 L 800,3800 L 800,3700 Z"/>
+				<text x="625" y="3715" fill="#FFC080" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="625" dy="50" unicode-bidi="embed">space[17] = 2</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#2060A0" stroke="#60A0E0" stroke-width="3" stroke-dasharray="none" d="M 450,3875 L 450,3975 L 800,3975 L 800,3875 Z"/>
+				<text x="625" y="3890" fill="#FFC080" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="625" dy="50" unicode-bidi="embed">space[18] = 1</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#2060A0" stroke="#60A0E0" stroke-width="3" stroke-dasharray="none" d="M 450,4050 L 450,4150 L 800,4150 L 800,4050 Z"/>
+				<text x="625" y="4065" fill="#FFC080" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="625" dy="50" unicode-bidi="embed">space[19] = 2</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#2060A0" stroke="#60A0E0" stroke-width="3" stroke-dasharray="none" d="M 450,4225 L 450,4325 L 800,4325 L 800,4225 Z"/>
+				<text x="625" y="4240" fill="#FFC080" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="625" dy="50" unicode-bidi="embed">space[20] = 0</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#2060A0" stroke="#60A0E0" stroke-width="3" stroke-dasharray="none" d="M 450,4400 L 450,4500 L 800,4500 L 800,4400 Z"/>
+				<text x="625" y="4415" fill="#FFC080" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="625" dy="50" unicode-bidi="embed">space[21] = 2</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#2060A0" stroke="#60A0E0" stroke-width="3" stroke-dasharray="none" d="M 450,4575 L 450,4675 L 800,4675 L 800,4575 Z"/>
+				<text x="625" y="4590" fill="#FFC080" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="625" dy="50" unicode-bidi="embed">space[22] = 2</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#2060A0" stroke="#60A0E0" stroke-width="3" stroke-dasharray="none" d="M 450,4750 L 450,4850 L 800,4850 L 800,4750 Z"/>
+				<text x="625" y="4765" fill="#FFC080" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="625" dy="50" unicode-bidi="embed">space[23] = 1</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#2060A0" stroke="#60A0E0" stroke-width="3" stroke-dasharray="none" d="M 450,4925 L 450,5025 L 800,5025 L 800,4925 Z"/>
+				<text x="625" y="4940" fill="#FFC080" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="625" dy="50" unicode-bidi="embed">space[24] = 0</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#2060A0" stroke="#60A0E0" stroke-width="3" stroke-dasharray="none" d="M 450,5100 L 450,5200 L 800,5200 L 800,5100 Z"/>
+				<text x="625" y="5115" fill="#FFC080" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="625" dy="50" unicode-bidi="embed">charac[0] = 3</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#2060A0" stroke="#60A0E0" stroke-width="3" stroke-dasharray="none" d="M 450,5275 L 450,5375 L 800,5375 L 800,5275 Z"/>
+				<text x="625" y="5290" fill="#FFC080" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="625" dy="50" unicode-bidi="embed">charac[1] = 3</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#2060A0" stroke="#60A0E0" stroke-width="3" stroke-dasharray="none" d="M 450,5450 L 450,5550 L 800,5550 L 800,5450 Z"/>
+				<text x="625" y="5465" fill="#FFC080" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="625" dy="50" unicode-bidi="embed">charac[2] = 3</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#2060A0" stroke="#60A0E0" stroke-width="3" stroke-dasharray="none" d="M 450,5625 L 450,5725 L 800,5725 L 800,5625 Z"/>
+				<text x="625" y="5640" fill="#FFC080" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="625" dy="50" unicode-bidi="embed">charac[3] = 3</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#2060A0" stroke="#60A0E0" stroke-width="3" stroke-dasharray="none" d="M 450,5800 L 450,5900 L 800,5900 L 800,5800 Z"/>
+				<text x="625" y="5815" fill="#FFC080" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="625" dy="50" unicode-bidi="embed">charac[4] = 0</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#2060A0" stroke="#60A0E0" stroke-width="3" stroke-dasharray="none" d="M 450,5975 L 450,6075 L 800,6075 L 800,5975 Z"/>
+				<text x="625" y="5990" fill="#FFC080" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="625" dy="50" unicode-bidi="embed">charac[5] = 1</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#2060A0" stroke="#60A0E0" stroke-width="3" stroke-dasharray="none" d="M 450,6150 L 450,6250 L 800,6250 L 800,6150 Z"/>
+				<text x="625" y="6165" fill="#FFC080" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="625" dy="50" unicode-bidi="embed">charac[6] = 1</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#2060A0" stroke="#60A0E0" stroke-width="3" stroke-dasharray="none" d="M 450,6325 L 450,6425 L 800,6425 L 800,6325 Z"/>
+				<text x="625" y="6340" fill="#FFC080" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="625" dy="50" unicode-bidi="embed">charac[7] = 1</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#2060A0" stroke="#60A0E0" stroke-width="3" stroke-dasharray="none" d="M 450,6500 L 450,6600 L 800,6600 L 800,6500 Z"/>
+				<text x="625" y="6515" fill="#FFC080" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="625" dy="50" unicode-bidi="embed">charac[8] = 1</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#2060A0" stroke="#60A0E0" stroke-width="3" stroke-dasharray="none" d="M 450,6675 L 450,6775 L 800,6775 L 800,6675 Z"/>
+				<text x="625" y="6690" fill="#FFC080" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="625" dy="50" unicode-bidi="embed">charac[9] = 1</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#2060A0" stroke="#60A0E0" stroke-width="3" stroke-dasharray="none" d="M 450,6850 L 450,6950 L 800,6950 L 800,6850 Z"/>
+				<text x="625" y="6865" fill="#FFC080" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="625" dy="50" unicode-bidi="embed">charac[10] = 1</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#2060A0" stroke="#60A0E0" stroke-width="3" stroke-dasharray="none" d="M 450,7025 L 450,7125 L 800,7125 L 800,7025 Z"/>
+				<text x="625" y="7040" fill="#FFC080" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="625" dy="50" unicode-bidi="embed">charac[11] = 1</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#2060A0" stroke="#60A0E0" stroke-width="3" stroke-dasharray="none" d="M 450,7200 L 450,7300 L 800,7300 L 800,7200 Z"/>
+				<text x="625" y="7215" fill="#FFC080" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="625" dy="50" unicode-bidi="embed">charac[12] = 2</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#2060A0" stroke="#60A0E0" stroke-width="3" stroke-dasharray="none" d="M 450,7375 L 450,7475 L 800,7475 L 800,7375 Z"/>
+				<text x="625" y="7390" fill="#FFC080" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="625" dy="50" unicode-bidi="embed">charac[13] = 1</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#2060A0" stroke="#60A0E0" stroke-width="3" stroke-dasharray="none" d="M 450,7550 L 450,7650 L 800,7650 L 800,7550 Z"/>
+				<text x="625" y="7565" fill="#FFC080" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="625" dy="50" unicode-bidi="embed">charac[14] = 0</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#2060A0" stroke="#60A0E0" stroke-width="3" stroke-dasharray="none" d="M 450,7725 L 450,7825 L 800,7825 L 800,7725 Z"/>
+				<text x="625" y="7740" fill="#FFC080" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="625" dy="50" unicode-bidi="embed">charac[15] = 1</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#2060A0" stroke="#60A0E0" stroke-width="3" stroke-dasharray="none" d="M 450,7900 L 450,8000 L 800,8000 L 800,7900 Z"/>
+				<text x="625" y="7915" fill="#FFC080" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="625" dy="50" unicode-bidi="embed">charac[16] = 1</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#2060A0" stroke="#60A0E0" stroke-width="3" stroke-dasharray="none" d="M 450,8075 L 450,8175 L 800,8175 L 800,8075 Z"/>
+				<text x="625" y="8090" fill="#FFC080" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="625" dy="50" unicode-bidi="embed">charac[17] = 1</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#2060A0" stroke="#60A0E0" stroke-width="3" stroke-dasharray="none" d="M 450,8250 L 450,8350 L 800,8350 L 800,8250 Z"/>
+				<text x="625" y="8265" fill="#FFC080" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="625" dy="50" unicode-bidi="embed">charac[18] = 1</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#2060A0" stroke="#60A0E0" stroke-width="3" stroke-dasharray="none" d="M 450,8425 L 450,8525 L 800,8525 L 800,8425 Z"/>
+				<text x="625" y="8440" fill="#FFC080" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="625" dy="50" unicode-bidi="embed">charac[19] = 1</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#2060A0" stroke="#60A0E0" stroke-width="3" stroke-dasharray="none" d="M 450,8600 L 450,8700 L 800,8700 L 800,8600 Z"/>
+				<text x="625" y="8615" fill="#FFC080" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="625" dy="50" unicode-bidi="embed">charac[20] = 3</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#2060A0" stroke="#60A0E0" stroke-width="3" stroke-dasharray="none" d="M 450,8775 L 450,8875 L 800,8875 L 800,8775 Z"/>
+				<text x="625" y="8790" fill="#FFC080" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="625" dy="50" unicode-bidi="embed">charac[21] = 1</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#2060A0" stroke="#60A0E0" stroke-width="3" stroke-dasharray="none" d="M 450,8950 L 450,9050 L 800,9050 L 800,8950 Z"/>
+				<text x="625" y="8965" fill="#FFC080" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="625" dy="50" unicode-bidi="embed">charac[22] = 3</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#2060A0" stroke="#60A0E0" stroke-width="3" stroke-dasharray="none" d="M 450,9125 L 450,9225 L 800,9225 L 800,9125 Z"/>
+				<text x="625" y="9140" fill="#FFC080" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="625" dy="50" unicode-bidi="embed">charac[23] = 3</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#2060A0" stroke="#60A0E0" stroke-width="3" stroke-dasharray="none" d="M 450,9300 L 450,9400 L 800,9400 L 800,9300 Z"/>
+				<text x="625" y="9315" fill="#FFC080" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="625" dy="50" unicode-bidi="embed">charac[24] = 0</tspan>
+				</text>
+			</g>
+			<g>
+				<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="6,12" points="625,9525 750,9525"/>
+				<g>
+					<path fill="#403C38" stroke="#D0CCC8" stroke-width="3" stroke-dasharray="6,6" d="M 750,9475 L 750,9575 L 1050,9575 L 1050,9475 Z"/>
+					<text x="900" y="9490" fill="#D0CCC8" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+						<tspan x="900" dy="50" unicode-bidi="embed">Comment</tspan>
+					</text>
+				</g>
+			</g>
+			<g>
+				<path fill="#2060A0" stroke="#60A0E0" stroke-width="3" stroke-dasharray="none" d="M 475,9650 L 475,9775 L 775,9775 L 775,9650 Z"/>
+				<polyline fill="none" stroke="#60A0E0" stroke-width="3" stroke-dasharray="none" points="475,9675 775,9675"/>
+				<polyline fill="none" stroke="#60A0E0" stroke-width="3" stroke-dasharray="none" points="500,9650 500,9775"/>
+				<text x="637" y="9690" fill="#FFC080" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="637" dy="50" unicode-bidi="embed">Integer sp</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#2060A0" stroke="#60A0E0" stroke-width="3" stroke-dasharray="none" d="M 475,9850 L 475,9950 L 775,9950 L 775,9850 Z"/>
+				<text x="625" y="9865" fill="#FFC080" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="625" dy="50" unicode-bidi="embed">sp = 0</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#2060A0" stroke="#60A0E0" stroke-width="3" stroke-dasharray="none" d="M 475,10025 L 475,10150 L 775,10150 L 775,10025 Z"/>
+				<polyline fill="none" stroke="#60A0E0" stroke-width="3" stroke-dasharray="none" points="475,10050 775,10050"/>
+				<polyline fill="none" stroke="#60A0E0" stroke-width="3" stroke-dasharray="none" points="500,10025 500,10150"/>
+				<text x="637" y="10065" fill="#FFC080" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="637" dy="50" unicode-bidi="embed">Integer ch</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#2060A0" stroke="#60A0E0" stroke-width="3" stroke-dasharray="none" d="M 475,10225 L 475,10325 L 775,10325 L 775,10225 Z"/>
+				<text x="625" y="10240" fill="#FFC080" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="625" dy="50" unicode-bidi="embed">ch = 0</tspan>
+				</text>
+			</g>
+			<g>
+				<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="950,10475 1075,10475 1075,10561"/>
+				<polygon fill="#EAEEF0" stroke="none" points="1075,10575 1088,10550 1061,10550"/>
+				<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="1075,10850 1075,10925 675,10925 675,10538"/>
+				<polygon fill="#EAEEF0" stroke="none" points="675,10525 661,10549 688,10549"/>
+				<g>
+					<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="1075,10675 1075,10736"/>
+					<polygon fill="#EAEEF0" stroke="none" points="1075,10750 1088,10725 1061,10725"/>
+					<g>
+						<path fill="#A04040" stroke="#E08080" stroke-width="3" stroke-dasharray="none" d="M 900,10575 L 850,10675 L 1250,10675 L 1300,10575 Z"/>
+						<text x="1075" y="10590" fill="#FFFF80" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+							<tspan x="1075" dy="50" unicode-bidi="embed">Output &quot;C&quot; &#8230;</tspan>
+						</text>
+					</g>
+					<g>
+						<path fill="#2060A0" stroke="#60A0E0" stroke-width="3" stroke-dasharray="none" d="M 925,10750 L 925,10850 L 1225,10850 L 1225,10750 Z"/>
+						<text x="1075" y="10765" fill="#FFC080" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+							<tspan x="1075" dy="50" unicode-bidi="embed">sp = sp+1</tspan>
+						</text>
+					</g>
+				</g>
+				<g>
+					<path fill="#E0E080" stroke="#101010" stroke-width="3" stroke-dasharray="none" d="M 350,10425 L 300,10475 L 350,10525 L 900,10525 L 950,10475 L 900,10425 Z"/>
+					<text x="625" y="10440" fill="#101010" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+						<tspan x="625" dy="50" unicode-bidi="embed">sp&lt;(space[col]*userInput)</tspan>
+					</text>
+				</g>
+				<text x="1025" y="10390" fill="#DADCE0" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="1025" dy="50" unicode-bidi="embed">True</tspan>
+				</text>
+				<text x="537" y="10540" fill="#DADCE0" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="537" dy="50" unicode-bidi="embed">False</tspan>
+				</text>
+			</g>
+			<g>
+				<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="975,11075 1100,11075 1100,11161"/>
+				<polygon fill="#EAEEF0" stroke="none" points="1100,11175 1113,11150 1086,11150"/>
+				<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="1100,11450 1100,11525 675,11525 675,11138"/>
+				<polygon fill="#EAEEF0" stroke="none" points="675,11125 661,11149 688,11149"/>
+				<g>
+					<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="1100,11275 1100,11336"/>
+					<polygon fill="#EAEEF0" stroke="none" points="1100,11350 1113,11325 1086,11325"/>
+					<g>
+						<path fill="#A04040" stroke="#E08080" stroke-width="3" stroke-dasharray="none" d="M 925,11175 L 875,11275 L 1275,11275 L 1325,11175 Z"/>
+						<text x="1100" y="11190" fill="#FFFF80" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+							<tspan x="1100" dy="50" unicode-bidi="embed">Output &quot;W&quot; &#8230;</tspan>
+						</text>
+					</g>
+					<g>
+						<path fill="#2060A0" stroke="#60A0E0" stroke-width="3" stroke-dasharray="none" d="M 950,11350 L 950,11450 L 1250,11450 L 1250,11350 Z"/>
+						<text x="1100" y="11365" fill="#FFC080" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+							<tspan x="1100" dy="50" unicode-bidi="embed">ch = ch+1</tspan>
+						</text>
+					</g>
+				</g>
+				<g>
+					<path fill="#E0E080" stroke="#101010" stroke-width="3" stroke-dasharray="none" d="M 325,11025 L 275,11075 L 325,11125 L 925,11125 L 975,11075 L 925,11025 Z"/>
+					<text x="625" y="11040" fill="#101010" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+						<tspan x="625" dy="50" unicode-bidi="embed">ch&lt;(charac[col]*userInput)</tspan>
+					</text>
+				</g>
+				<text x="1050" y="10990" fill="#DADCE0" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="1050" dy="50" unicode-bidi="embed">True</tspan>
+				</text>
+				<text x="537" y="11140" fill="#DADCE0" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="537" dy="50" unicode-bidi="embed">False</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#2060A0" stroke="#60A0E0" stroke-width="3" stroke-dasharray="none" d="M 475,11600 L 475,11700 L 775,11700 L 775,11600 Z"/>
+				<text x="625" y="11615" fill="#FFC080" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="625" dy="50" unicode-bidi="embed">sp = 0</tspan>
+				</text>
+			</g>
+			<g>
+				<path fill="#2060A0" stroke="#60A0E0" stroke-width="3" stroke-dasharray="none" d="M 475,11775 L 475,11875 L 775,11875 L 775,11775 Z"/>
+				<text x="625" y="11790" fill="#FFC080" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="625" dy="50" unicode-bidi="embed">ch = 0</tspan>
+				</text>
+			</g>
+			<g>
+				<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="975,12150 1125,12150 1125,12386"/>
+				<polygon fill="#EAEEF0" stroke="none" points="1125,12400 1138,12375 1111,12375"/>
+				<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="1125,12500 1125,12600 663,12600"/>
+				<polygon fill="#EAEEF0" stroke="none" points="650,12600 674,12613 674,12586"/>
+				<polyline fill="none" stroke="#EAEEF0" stroke-width="6" stroke-dasharray="none" points="275,12150 100,12150 100,12600 586,12600"/>
+				<polygon fill="#EAEEF0" stroke="none" points="600,12600 575,12586 575,12613"/>
+				<g>
+					<path fill="#60A060" stroke="#A0E0A0" stroke-width="3" stroke-dasharray="none" d="M 625,11950 L 250,12150 L 625,12350 L 1000,12150 Z"/>
+					<text x="625" y="12090" fill="#F8F8F8" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+						<tspan x="625" dy="50" unicode-bidi="embed">col==4||col=9||col=14||col</tspan>
+						<tspan x="625" dy="50" unicode-bidi="embed">=19||col=24</tspan>
+					</text>
+				</g>
+				<g>
+					<path fill="#A04040" stroke="#E08080" stroke-width="3" stroke-dasharray="none" d="M 1000,12400 L 950,12500 L 1250,12500 L 1300,12400 Z"/>
+					<text x="1125" y="12415" fill="#FFFF80" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+						<tspan x="1125" dy="50" unicode-bidi="embed">Output &quot;&quot;</tspan>
+					</text>
+				</g>
+				<g>
+				</g>
+				<ellipse cx="625" cy="12600" rx="25" ry="25" fill="#60A060" stroke="#A0E0A0" stroke-width="3"/>
+				<text x="1075" y="12065" fill="#DADCE0" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="1075" dy="50" unicode-bidi="embed">True</tspan>
+				</text>
+				<text x="162" y="12065" fill="#DADCE0" font-family="Arial" font-size="32pt" text-anchor="middle" direction="ltr">
+					<tspan x="162" dy="50" unicode-bidi="embed">False</tspan>
+				</text>
+			</g>
+		</g>
+	</g>
+</svg>
